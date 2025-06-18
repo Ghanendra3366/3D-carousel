@@ -12,5 +12,5 @@ A visually engaging 3D carousel/slider UI created using **HTML, CSS,Python and J
 - HTML5
 - CSS3 (3D Transforms)
 - JavaScript (Vanilla)
-- Python 3
+  
 
